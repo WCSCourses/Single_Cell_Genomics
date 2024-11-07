@@ -1,53 +1,120 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Single Cell Genomics
+# Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+## 9–11 November 2024, Universidad CES, Medellín, Colombia
 
-## Course overview
+[Wellcome Connecting Science Course Run Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomic-approaches-to-study-the-immune-system-latin-america-the-caribbean-20241109/) <br /> 
+[Course Time Table](Coming Soon..) <br /> 
+[Course Informatics Guide](Coming Soon..)
 
-Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
+# Summary
 
-Illustrated by the successful formation of scientific networks within the [Human Cell Atlas](https://www.humancellatlas.org/biological-networks/), there is growing interest among scientists and increased need for building capacity for single cell technologies. However, there is a lack of infrastructure, limited funding, and expertise  relevant for applying these advanced technologies in Latin America. Therefore, this short course offers hands-on laboratory training and bioinformatics analysis in single-cell technologies to contribute to capacity development in Latin America. 
+In collaboration with [Project Jaguar](https://www.sanger.ac.uk/collaboration/project-jaguar/), [ICMT Universidad CES](https://www.ces.edu.co/) and [Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_QJNXQ2NnA18_D2NXQ0CLf1MA4zdPY1MzI31wwkpiAJKG-AAjgZA_VFgJRaWzkaGjiYGPgbehqYGjoGuAX4h_s4BLl5GUAV4zCjIjTDIdFRUBAC3KPbO/dz/d5/L2dBISEvZ0FBIS9nQSEh/), we are excited to offer a complimentary workshop on applying single-cell genomic techniques to investigate the immune system. Single-cell immunogenomics approaches help to understand how environmental factors and genetic backgrounds influence immune responses. This course is designed to equip scientists with the skills and resources to obtain and analyse single-cell omics data. We will highlight the interplay between experimental design, laboratory processing, and downstream analysis, sharing insights from our experiences in profiling the immune system and conducting in vitro stimulations.
 
-## Target Audience
+In this course we will cover a toolkit of single-cell technologies, including scRNAseq, CITEseq, ATACseq, and immune receptor repertoires in single cell, discussing their benefits, limitations, and best practices. Additionally, we will share our experiences from a large-scale single-cell immunogenomics project involving researchers from various institutions based in seven Latin American countries working in partnership with Wellcome Sanger Institute (Project JAGUAR).
 
-Early and mid-career scientists, PhD students, and postdoctoral researchers based in Latin American countries who are engaged or planning to engage in single-cell research.
+This course will be held preceding the [ISCB Latin America Conference on Bioinformatics](https://www.iscb.org/latam2024/home).
 
-## Prerequisites
+# Target audience: 
 
-We recommend that participants be familiar with the basics of genomics and molecular Biology. The hands-on bioinformatics modules will be taught using R. Therefore, participants are required to have some familiarity with the R language. This will be essential for participants to fully benefit from the course. All candidates will be requested to undertake pre-course activities to gain the fundamental knowledge needed during the course.
+Early and mid-career biomedical scientists, MSc, PhD students and postdocs, who are beginning or planning to begin single-cell omics research in the field of immunology, are invited to participate. This course is open to applicants based in Latin America.
 
-The course will be taught in English but there will be support from Portuguese and Spanish-speaking instructors.
+A basic proficiency in R or Python is required. Pre-course materials on R and Linux will be provided to prepare participants for the course.
 
-## Course Content
+## Learning outcomes
 
-This hands-on laboratory and bioinformatics course will offer a series of lectures and practical sessions including the following topics:
+**What will you be able to do?**
 
-- Introduction to single-cell sequencing: applications and analysis
-- Single-cell RNA sequencing methods: detailed state-of-the-art molecular biology protocols for sample preparation
-- Hands-on single-cell techniques: from cell preparation to data analysis
-- Best practices for planning and executing single-cell experiments, quality control and troubleshooting
-- Bioinformatics training: workflows and tools for data processing, visualization, and cellular structure identification 
-- Group projects: bioinformatics analyses and grant writing
+After attending this course, participants will be able to:
 
-## Learning Outcomes
+- Identify critical decisions for the data interpretability in their experimental planning and design with a focus on the immune system.
+- Decide the appropriate steps for dataset preprocessing and analysis and apply them within the framework for immunological interpretation.
+- Operate both R and Python-based analytical frameworks to conduct single-cell analysis.
+- Understand the integration of samples and omics datasets e.g. transcriptomics and CITE-seq, across single cell experiments and how to leverage and interpret the results.
+- Describe downstream analysis types appropriate for their biological questions in studying the immune system.
 
-At the end of this course, participants will be able to:
+# Programme
 
-- Compare single-cell RNA sequencing (scRNA-seq) methodologies to identify suitable applications. 
-- Plan and perform scRNA-seq laboratory techniques and data analysis to obtain high-quality outputs. 
-- Apply R scripting and publicly available data repositories to analyse scRNA-seq data.
-- Design and execute a bioinformatics analysis pipeline for scRNA-seq data. 
-- Interpret the outcomes of a single-cell RNA-seq pipeline in light of a biological question.
+This hands-on bioinformatics workshop will offer a series of lectures and practical sessions covering the following topics:
 
-**Course Runs**      
+- Single-cell basics and immune system applications: From the technology to the implementations.
+- Best practices for experimental planning and design focusing on the study of the immune system.
+- Single-cell RNA sequencing: from raw sequences to count matrix and downstream analysis through comprehensive data workflows.
+- Immune receptor repertoires in single-cell technologies.
+- CITE-seq technology to profile cells at transcriptomics and proteomic levels.
+- ATAC-seq and multiome analysis.
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 28 July–4 August 2023 | [Single Cell Genomics - Latin America and the Caribbean](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-and-the-caribbean-20230728/) | INCA, Rio de Janeiro, Brazil | [![DOI](https://zenodo.org/badge/834030327.svg)](https://zenodo.org/doi/10.5281/zenodo.12952708) |
-| 9–15 August 2024 | [Single Cell Genomics - Latin America and the Caribbean](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/) | INCA, Rio de Janeiro, Brazil | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14043077.svg)](https://doi.org/10.5281/zenodo.14043077) |
+**Scientific Organising Committee**      
+
+- [Yesid Cuesta Astroz](https://scholar.google.es/citations?user=q0hiAjEAAAAJ&hl=es), University of Antioquía, Colombia
+- [Gosia Trynka](https://www.sanger.ac.uk/person/trynka-gosia/), Wellcome Sanger Institute, UK
+  
+**Course Instructors**      
+
+- [Anna (Ania) Lorenc](https://www.sanger.ac.uk/person/lorenc-anna/), Wellcome Sanger Institute, UK
+- [Benilton Carvalho](https://portal.dados.unicamp.br/perfil?origem=&docente=309039&sigla_unidade=IMECC&nome_unidade=INSTITUTO%20DE%20MATEMATICA,%20ESTATISTICA%20E%20COMPUTACAO%20CIENTIFICA&nome_programa=), UNICAMP, Brazil 
+- [Carla Jones](https://www.sanger.ac.uk/person/jones-bell-carla/), Wellcome Sanger Institute, UK
+- [Danilo Ceschin](https://www.iucbc.edu.ar/cimetsa/investigacion-traslacional-en-epigenetica-y-aterosclerosis.html), CIMETSA - IUCBC, Argentina
+- [Diego Ramirez](), UNAM, Mexico
+- [Evelia Coss](https://eveliacoss.github.io/), UNAM, Mexico
+- [Felipe Gajardo](https://www.researchgate.net/profile/Felipe-Gajardo-3), PUC, Chile 
+- [Julieth Lopez](https://co.linkedin.com/in/julieth-andrea-lopez), UNAL, Colombia 
+- [Lucia Ramirez](https://scholar.google.com/citations?user=nESolKwAAAAJ&hl=es), Wellcome Sanger Institute, UK
+
+**Wellcome Connecting Science Team**   
+
+- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
+- [Isabela Malta](https://www.linkedin.com/in/isabela-malta-754503162/), Assistant Global Training Manager
+- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Event Organiser
+- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Laboratory Operations Officer
+- [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Education Developer
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+
+******
+
+# Bioinformatics Material
+
+### Module 1: scRNA-seq tutorial
+
+Date: Saturday 9 November
+
+Single-cell RNA sequencing (scRNA-seq) technology revolutionizes our understanding of cellular heterogeneity by enabling transcriptomic analysis at the single-cell level. This tutorial will explain the basis of single-cell and immune system applications through a lecture that delves into the principles and methodologies of scRNA-seq, with focus on how they shape and influence analysis. Key technological implementations will be discussed. More technical part of this talk will outline processing the sequencing data, from raw reads in FASTQ files to preprocessing-ready count matrices and methods for cleaning and adjusting data in preprocessing (identification of bad quality cells and multiplets, demultiplexing pooled samples). Finally, this tutorial will offer a computational practice using open data to understand the workflow of scRNA-seq data analysis.
+
+- Lecture: Single cell basics and immune system applications. Basics of technology and their implementations. From raw sequences to counting matrix [Slides](https://docs.google.com/presentation/d/1G6iIWpFBiG4mkoited6UnbUALGwlH43S/edit?usp=drive_link&ouid=105971648309588993887&rtpof=true&sd=true)
+- scRNAseq tutorial [Slides]()
+- scRNAseq tutorial [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq.ipynb)
+- scRNAseq workshop solutions [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_ImmuneSys_24/blob/main/modules/Module1_scRNAseq/scRNAseq_Workshop_Solutions.ipynb)
+
+### Module 2: CITE-seq tutorial
+
+Date: Sunday 10 November
+
+CITE-Seq (Cellular Indexing of Transcriptomes and Epitopes by sequencing) is an advanced technique that merges single-cell RNA sequencing (scRNA-seq) with protein marker detection, enabling comprehensive profiling of individual cells at both the transcriptomic and proteomic levels. By attaching unique oligonucleotide barcodes to antibodies that bind specific cell surface proteins, CITE-Seq allows for simultaneous measurement of gene expression and protein abundance in thousands of single cells. This dual-modality approach offers deeper insights into cellular heterogeneity, states, and functions compared to traditional methods. CITE-Seq has proven invaluable in various fields, including immunology, oncology, and developmental biology, providing a powerful tool for deciphering complex biological systems and advancing precision medicine. This technique's ability to integrate RNA and protein data from the same cells presents new opportunities for biomarker discovery, disease characterization, and therapeutic development. This tutorial will explain the basis and the computational analysis of CITE-seq data.
+
+- CITEseq tutorial [Slides]()
+- CITEseq tutorial [Google Colab Notebook]()
+
+### Module 3: Between groups analysis and Immune receptors
+
+Date: Sunday 10 November 
+
+Single cell technologies provide significant opportunities for biological discovery, but the laboratory methods and intrinsic sample variability pose challenges when analyzing samples together. Similarly, the sparse nature of expression data requires special statistical handling when comparing samples across groups. This module present ways to deal with batch effects and variance-reducing methods in downstream analyses of scRNAseq. On the other hand, this module cover the basics of receptor biology and explain how receptor sequences are obtained, both through targeted methods and serendipitous discovery. It will address the challenges involved in interpreting these sequences and explore the various applications of this data. In the practical section, participants will work with single-cell RNA sequencing (scRNA-seq) data that contains receptor information. The session will include an introduction to accessing this data and outline the typical benefits it provides.
+
+- Lecture: Combining samples together in the analysis to answer biological questions [Slides](https://docs.google.com/presentation/d/1Z4OODsGVHO0xAw0wfMbCs6_sI_H6rKs301Y0KiTeUdA/edit?usp=sharing)
+- Differential gene expression analysis tutorial [Google Colab Notebook](https://colab.research.google.com/drive/1dSkGUlOajF8-TMZKm3VY3Z1QbibJ52Aq)
+- Immune receptor repertoires in single-cell technologies [Slides]()
+- Immune receptor repertoires in single-cell technologies [Google Colab Notebook](https://colab.research.google.com/drive/1rqKOtudtYHuL05qwcX_v6Hs9Bknc-OD7?usp=sharing)
+
+### Module 4: ATAC-seq tutorial
+
+Date: Monday 11 November
+
+Single-cell transposase-accessible chromatin sequencing (scATAC-seq) represents the most innovative technology for examining genome-wide regulatory landscapes in single cells. For this tutorial, we will be analyzing a single-cell ATAC-seq dataset of human peripheral blood mononuclear cells (PBMCs) provided by 10x Genomics. We will run bridge integration for PBMC with the newly released Azimuth ATAC workflow. In this workshop we will review the existing statistical tools for analyzing scATAC-seq data, how to document your analysis and review some tools for interpreting results.
+
+- ATACseq tutorial [Slides]()
+- ATACseq tutorial [Google Colab Notebook]()
+
 ******
 
 ## Citing and Re-using Course Material
@@ -56,14 +123,15 @@ The course data are free to reuse and adapt with appropriate attribution. All co
 
 ## Interested in attending a course?
 
-Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
 
 ---
 
-For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).
+For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
 
-<br /> 
 
 Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 
+---
+
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
